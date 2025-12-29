@@ -38,7 +38,7 @@ def load_data():
 
 df = load_data()
 
-st.title("PIPELINE DEVELOPER RESEARCH LAB", unsafe_allow_html=True)
+st.title("PIPELINE DEVELOPER RESEARCH LAB")
 st.markdown("Applied Research • AI Systems • Data Analytics")
 
 
