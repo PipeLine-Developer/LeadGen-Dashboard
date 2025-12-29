@@ -1,6 +1,5 @@
-# 🎓 Graduate Marketing Funnel Dashboard
-
-This Streamlit app visualizes key metrics from the graduate admissions funnel, including marketing engagement, application patterns, and international breakdowns.
+# 🎓 PIPELINE DEVELOPER RESEARCH LAB
+This Streamlit app visualizes key metrics from a higher-education admissions funnel, including marketing engagement, application patterns, and international breakdowns.
 
 ## 📊 Features
 
