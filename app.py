@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Marketing Funnel Dashboard", layout="wide")
+st.set_page_config(page_title="PIPELINE DEVELOPER RESEARCH LAB", layout="wide")
 
 @st.cache_data
 def load_data():
@@ -38,8 +38,8 @@ def load_data():
 
 df = load_data()
 
-st.title("# PIPELINE DEVELOPER RESEARCH LAB", unsafe_allow_html=True)
-st.markdown("### Applied Research • AI Systems • Data Analytics")
+st.title("PIPELINE DEVELOPER RESEARCH LAB", unsafe_allow_html=True)
+st.markdown("Applied Research • AI Systems • Data Analytics")
 ")
 
 st.markdown("""
