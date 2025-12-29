@@ -38,7 +38,9 @@ def load_data():
 
 df = load_data()
 
-st.title("🎓 Graduate Marketing Dashboard")
+st.title("# PIPELINE DEVELOPER RESEARCH LAB", unsafe_allow_html=True)
+st.markdown("### Applied Research • AI Systems • Data Analytics")
+")
 
 st.markdown("""
     <style>
